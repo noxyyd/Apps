@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VidGrab</string>
+    <string name="share_label">Download with VidGrab</string>
+    <string name="channel_downloads">Downloads</string>
+</resources>
